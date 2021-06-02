@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<!DOCTYPE TEI[
+<!ELEMENT TEI (header, facsimile?, text+)>
+<!ELEMENT header (#PCDATA)>
+<!ELEMENT facsimile (#PCDATA)>
+<!ELEMENT text (#PCDATA | seg)*>
+<!ELEMENT seg (#PCDATA)>
+
+<!ATTLIST header 
+    type CDATA #FIXED "intestazione"
+    lang NMTOKEN #IMPLIED
+>
+
+<!ATTLIST facsimile
+    source CDATA #REQUIRED
+    ref IDREFS #IMPLIED
+>
+<!ATTLIST text
+    id ID #REQUIRED
+    type CDATA #IMPLIED
+>
+]>
+
+<TEI>
+    <header>
+        contenuto testuale
+    </header>
+    <facsimile>
+        contenutoo testuale
+    </facsimile>
+    <testo>
+        contenuto testuale
+        <seg>
+        </seg>
+    </testo>
+</TEI>
+
+
+                    <div class="home">
+                        <h1>LL1.32.I</h1>
+                        <h2 class="center">Edizione digitale</h2>
+                        <p class="link">
+                            <a href="#32.I" id="link1">LL1.32.I</a> &#160; <!--spazio-->
+                            <b>|</b>
+                            &#160; <!--spazio--> <a href="#32.II" id="link2">LL1.32.II</a>
+                        </p>
+                    <xsl:apply-templates />
+

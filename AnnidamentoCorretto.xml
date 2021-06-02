@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<choice>
+    <sic> testo con errore </sic>
+    <cor> testo corretto </cor>
+</choice>

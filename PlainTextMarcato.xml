@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd" >
+<TEI xmlns="https://www.tei-c.org/ns/1.0/">
+    <teiHeader>
+        <fileDesc> 
+            <titleStmt>
+                <title> I sommersi e i salvati</title>
+                <respStmt> 
+                    <resp> Conversione TEI P5 a cura di </resp>
+                    <name> Gaia Sasso </name>
+                </respStmt>
+            </titleStmt>
+
+            <publicationStmt>
+               <publisher> Unipi </publisher>
+               <date> 30-04-2020 </date>
+            </publicationStmt>
+
+            <sourceDesc> <bibl>
+                <title> I sommersi e i salvati </title>
+                <author> Primo Levi </author>
+                <publisher> Einaudi </publisher>
+                <date> 1986 </date>
+            </bibl></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div n="ch1" type="chapter">
+                <pb n="14" />
+                <head>La memoria dell'offesa</head>
+                
+                <p>
+                    La memoria umana è uno strumento meraviglioso ma fallace. 
+                    E questa una verità logora, nota non solo agli psicologi, 
+                    ma anche a chiunque abbia posto attenzione al comportamento di chi lo circonda, 
+                    o al suo stesso comportamento. I ricordi che giacciono in noi non sono incisi sulla pietra; 
+                    non solo tendono a cancellarsi con gli anni, ma spesso si modificano, o addirittura si accrescono, 
+                    incorporando lineamenti estranei. Lo sanno bene i magistrati: non avviene quasi mai che due testimoni 
+                    oculari dello stesso fatto lo descrivano allo stesso modo e con le stesse parole, anche se il fatto è recente, 
+                    e se nessuno dei due ha un interesse personale a deformarlo. Questa scarsa affidabilità dei nostri ricordi 
+                    sarà spiegata in modo soddisfacente solo quando sapremo in quale linguaggio, in quale alfabeto essi sono scritti, 
+                    su quale materiale, con quale penna: a tutt’oggi, è questa una meta da cui siamo lontani. Si conoscono alcuni meccanismi 
+                    che falsificano la memoria in condizioni particolari: i traumi, non solo quelli cerebrali; l’interferenza da parte di altri 
+                    ricordi <soCalled> concorrenziali </soCalled>stati abnormi della coscienza; repressioni; rimozioni. 
+                    Tuttavia, anche in condizioni normali è all’opera una lenta degradazione, un offuscamento dei contorni, 
+                    un oblio per così dire fisiologico, a cui pochi ricordi resistono. É probabile che si possa riconoscere qui 
+                    una delle grandi forze della natura, quella stessa che degrada l’ordine in disordine, la giovinezza in vecchiaia, 
+                    e spegne la vita nella morte. É certo che l’esercizio (in questo caso, la frequente rievocazione) 
+                    mantiene il ricordo fresco e vivo, allo stesso modo come si mantiene 
+                    <pb n="15" /> 
+                    efficiente un muscolo che viene spesso esercitato; ma è anche vero che un ricordo troppo spesso evocato, 
+                    ed espresso in forma di racconto, tende a fissarsi in uno stereotipo, in una forma collaudata dall’esperienza, cristallizzata, 
+                    perfezionata, adorna, che si installa al posto del ricordo greggio e cresce a sue spese.
+                </p> 
+                <p>
+                    Intendo esaminare qui i ricordi di esperienze estreme, di offese subite o inflitte. In questo caso sono all’opera tutti o 
+                    quasi i fattori che possono obliterare o deformare la registrazione mnemonica: il ricordo di un trauma, patito o inflitto, 
+                    è esso stesso traumatico, perché richia- marlo duole o almeno disturba: chi è stato ferito tende a rimuovere il ricordo 
+                    per non rinnovare il dolore; chi ha ferito ricaccia il ricordo nel profondo, per liberarsene, per alleggerire il suo senso di colpa.
+                </p>
+                <p>
+                    Qui, come in altri fenomeni, ci troviamo davanti ad una paradossale analogia tra vittima ed oppressore, e ci preme essere chiari: 
+                    i due sono nella stessa trappola, ma è l’oppressore, e solo lui, che l’ha approntata e che l’ha fatta scattare, e se ne soffre, 
+                    è giusto che ne soffra; ed è iniquo che ne soffra la vittima, come invece ne soffre, anche a distanza di decenni. 
+                    Ancora una volta si deve constatare, con lutto, che l’offesa è insanabile: si protrae nel tempo, e le <distinct>Erinni</distinct>, 
+                    a cui bisogna pur credere, non travagliano solo il tormentatore (se pure lo travagliano, aiutate o no dalla punizione umana), 
+                    ma perpetuano l’opera di questo negando la pace al tormentato. 
+                    Non si leggono senza spavento le parole lasciate scritte da <name type="person">Jean Améry</name>, il filosofo austriaco torturato 
+                    dalla <foreign xml:lang="de">Gestapo</foreign> perché attivo nella resistenza belga, e poi deportato ad <name type="place">Auschwitz</name> perché ebreo:
+                </p>
+                <p>
+                    <quote> 
+                    Chi è stato torturato rimane torturato. (...) 
+                    Chi ha subito il tormento non potrà più ambientarsi nel mondo, l’abominio dell’annullamento non si estingue mai. 
+                    La fiducia nell’umanità, già incrinata dal primo schiaffo sul viso, demolita poi dalla tortura, non si riacquista più.
+                    </quote>
+                </p>
+                <p>
+                    La tortura è stata per lui una interminabile morte: <name type="person">Améry</name>, di cui riparlerò al capitolo sesto, si è ucciso nel 1978
+                </p>
+                <p>
+                    Non vogliamo confusioni, freudismi spiccioli, morbosità, indulgenze. 
+                    L’oppressore resta tale, e così la vittima: non sono intercambiabili, il primo è da punire e da esecrare (ma, se possibile, da
+                <pb n="16" /> 
+                    capire), la seconda è da compiangere e da aiutare; ma entrambi, davanti all’indecenza del fatto che è stato irrevocabilmente commesso, 
+                    hanno bisogno di rifugio e di difesa, e ne vanno istintivamente in cerca. Non tutti, ma i più; e spesso per tutta la loro vita.
+                </p>
+                <p>
+                    Disponiamo ormai di numerose confessioni, deposizioni, ammissioni da parte degli oppressori (non parlo solo dei nazionalsocialisti tedeschi, 
+                    ma di tutti coloro che commettono delitti orrendi e multipli per obbedienza ad una disciplina): 
+                    alcune rilasciate in giudizio, altre nel corso di interviste, altre ancora contenute in libri o memoriali. 
+                    A mio parere, sono documenti di estrema importanza. In generale, interessano poco le descrizioni delle cose viste e degli atti compiuti: 
+                    esse coincidono ampiamente con quanto è stato raccontato dalle vittime; 
+                    assai raramente vengono contestate, sono passate in giudicato e fanno ormai parte della Storia. Spesso vengono date per note. 
+                    Sono molto più importanti le motivazioni e le giustificazioni: perché lo hai fatto? Ti rendevi conto di commettere un delitto?
+                </p>
+                <p>
+                    Le risposte a queste due domande, o ad altre analoghe, sono molto simili fra loro, indipendentemente dalla personalità dell’interrogato, 
+                    sia egli un professionista ambizioso ed intelligente come <name type="person">Speer</name>, o un gelido fanatico 
+                    come <name type="person">Eichmann</name>, o un funzionario di vista corta come <name type="person">Stangl</name> di 
+                    <name type="place">Treblinka</name> e <name type="person">Höss</name> di <name type="place">Auschwitz</name>, 
+                    o un bruto ottuso come <name type="person">Boger</name> e <name type="person">Kaduk</name> inventori di torture. 
+                    Espresse con formulazioni diverse, e con maggiore o minor protervia a seconda del livello mentale e culturale di chi parla, 
+                    esse vengono a dire tutte sostanzialmente le stesse cose: l’ho fatto perché mi è stato comandato; altri (i miei superiori) 
+                    hanno commesso azioni peggiori delle mie; data l’educazione che ho ricevuta, e l’ambiente in cui sono vissuto, non potevo fare altro; 
+                    se non l’avessi fatto, l’avrebbe fatto con maggiore durezza un altro al mio posto. 
+                    Per chi legge queste giustificazioni, il primo moto è di ribrezzo: costoro mentono, non possono credere di essere creduti, 
+                    non possono non vedere lo squilibrio fra le loro scuse e la mole di dolore e di morte che essi hanno provocata. 
+                    Mentono sapendo di mentire: sono in mala fede.
+                </p>
+                <p>
+                    Ora, chiunque abbia sufficiente esperienza delle cose umane sa che la distinzione (l’opposizione, direbbe un linguista) buona fede /
+                <pb n="17" />
+                    mala fede è ottimistica ed illuministica, e lo è tanto più, ed a molto maggior ragione, se applicata a uomini come quelli appena nominati. 
+                    Presuppone una chiarezza mentale che è di pochi, e che anche questi pochi perdono immediatamente quando, per qualsiasi motivo, 
+                    la realtà passata o presente provoca in loro ansia o disagio. 
+                    In queste condizioni c’è bensì chi mente consapevolmente falsificando a freddo la realtà stessa, ma sono più numerosi 
+                    coloro che salpano le ancore, si allontanano, momentaneamente o per sempre, dai ricordi genuini, e si fabbricano una realtà di comodo. 
+                    Il passato è loro di peso; provano ripugnanza per le cose fatte o subite, e tendono a sostituirle con altre.
+                </p>
+                <p>
+                    La sostituzione può incominciare in piena consapevolezza, con uno scenario inventato, mendace, restaurato, 
+                    ma meno penoso di quello reale; ripetendone la descrizione, ad altri ma anche a se stessi, 
+                    la distinzione fra vero e falso perde progressivamente i suoi contorni, e l’uomo finisce col credere pienamente 
+                    al racconto che ha fatto così spesso e che ancora continua a fare, limandone e ritoccandone 
+                    qua e là i dettagli meno credibili, o fra loro incongruenti, o incompatibili con il quadro degli eventi acquisiti: 
+                    la mala fede iniziale è diventata buona fede. 
+                    Il silenzioso trapasso dalla menzogna all’autoinganno è utile: 
+                    chi mente in buona fede mente meglio, recita meglio la sua parte, viene creduto più facilmente dal giudice, 
+                    dallo storico, dal lettore, dalla moglie, dai figli.
+                </p>
+                <p>
+                    Più si allontanano gli eventi, più si accresce e si perfeziona la costruzione della verità di comodo. 
+                    Credo che solo attraverso questo meccanismo mentale si possano interpretare, ad esempio, le dichiarazioni fatte 
+                    all’<name type="name" xml:lang="eng">«Express» </name> nel 1978 da <name type="person">Louis Darquier de Pellepoix</name>, 
+                    già commissario addetto alle questioni ebraiche presso il governo di <name type="place">Vichy</name> intorno al 1942, 
+                    e come tale responsabile in proprio della deportazione di 70.000 ebrei. <name type="person">Darquier</name> nega tutto: 
+                    le foto dei cumuli di cadaveri sono montaggi; le statistiche dei milioni di morti sono state fabbricate dagli ebrei, 
+                    sempre avidi di pubblicità, di commiserazione e di indennizzi; le deportazioni ci saranno magari anche state 
+                    (gli sarebbe stato difficile contestarle: la sua firma compare in calce a troppe lettere che dànno 
+                    disposizioni per le deportazioni stesse, anche di bambini), 
+                    ma lui non sapeva verso dove e con quale
+                <pb n="17" />
+                    esito; ad <name type="place">Auschwitz</name> le camere a gas c’erano sì, ma servivano solo per uccidere i pidocchi, e del resto <emph>(si noti la coerenza!)</emph> 
+                    sono state costruite a scopo di propaganda dopo la fine della guerra. 
+                    Non intendo giustificare quest’uomo vile e sciocco, e mi offende sapere che ha vissuto a lungo indisturbato in <name type="place">Spagna</name>, 
+                    ma mi pare di poter ravvisare in lui il caso tipico di chi, avvezzo a mentire pubblicamente, finisce col mentire anche in privato, anche a se stesso, 
+                    e coll’edificarsi una verità confortevole che gli consente di vivere in pace. Tenere distinte la buona e la mala fede è costoso: richiede una profonda sincerità con sé stesso, 
+                    esige uno sforzo continuo, intellettuale e morale. Come si può pretendere questo sforzo da uomini come <name type="person">Darquier</name>?
+                </p>
+                <p>
+                    Se si leggono le dichiarazioni fatte da <name type="person">Eichmann</name> durante il processo di <name type="place">Gerusalemme</name>, 
+                    e di <name type="person">Rudolf Höss</name> (il penultimo comandante di <name type="place">Auschwitz</name>, l’inventore delle camere 
+                    ad <term>acido cianidrico</term>) nella sua autobiografia, vi si riconosce un processo di elaborazione del passato, più sottile di quello ora accennato. 
+                    In sostanza, questi due si sono difesi nel modo classico dei gregari nazisti, o meglio di tutti i gregari: siamo stati educati 
+                    all’obbedienza assoluta, alla gerarchia, al nazionalismo; siamo stati imbevuti di <foreign xml:lang="eng">slogan</foreign>, ubriacati di cerimonie e manifestazioni; 
+                    ci hanno insegnato che la sola giustizia era ciò che giovava al nostro popolo, e la sola verità erano le parole del <foreign xml:lang="de">Capo</foreign>.
+                </p>
+                <p>
+                    <q>Che cosa volete da noi? </q> 
+                    <q>Come potete pensare di pretendere da noi, a cose fatte, un comportamento diverso da quello che è stato il nostro, 
+                    e di tutti quelli che erano come noi? </q>
+                    Siamo stati diligenti esecutori, e per la nostra diligenza siamo stati lodati e promossi. 
+                    Le decisioni non sono state nostre, perché il regime in cui siamo cresciuti non ci concedeva decisioni autonome: 
+                    altri hanno deciso per noi, e non poteva avvenire altrimenti, perché eravamo stati amputati della capacità di decidere. 
+                    Non solo decidere ci era stato vietato, ma ne eravamo diventati incapaci. 
+                    Perciò non siamo responsabili e non possiamo essere puniti.
+                </p>
+                <p>
+                    Anche se proiettata sullo sfondo dei camini di <name type="place">Birkenau</name>, questa argomentazione non può essere presa come frutto di pura impudenza. 
+                    La pressione che un moderno Stato totalitario può esercitare sull’individuo è paurosa. Le sue armi sono sostanzialmente tre: la propaganda diretta, o camuffata da educazione, 
+                    da istruzione, da cul-
+                <pb n="19" />
+                    tura popolare; lo sbarramento opposto al pluralismo delle informazioni; il terrore. Tuttavia, non è lecito ammettere che questa pressione sia irresistibile, 
+                    tanto meno nel breve termine dei dodici anni del <name type="name">Terzo Reich</name>: nelle affermazioni e nelle discolpe di uomini dalle gravissime responsabilità, 
+                    quali erano <name type="person">Höss</name> e <name type="person">Eichmann</name>, è palese l’esagerazione, ed ancor più la manomissione del ricordo. 
+                    Entrambi erano nati ed erano stati educati molto prima che il <foreign xml:lang="de">Reich</foreign> diventasse veramente <soCalled>«totalitario»</soCalled>, 
+                    e la loro adesione era stata una scelta, dettata più da opportunismo che da entusiasmo. 
+                    La rielaborazione del loro passato è stata opera posteriore, lenta e (probabilmente) non metodica.
+                </p>
+                <p>
+                    Anche loro, così forti di fronte al dolore altrui, quando il destino li ha messi davanti ai giudici, davanti alla morte che hanno meritato, 
+                    si sono costruiti un passato di comodo ed hanno finito per credervi: in special modo <name type="person">Höss</name>, che non era un uomo sottile. 
+                    Quale appare dal suo scritto, era anzi un personaggio talmente poco propenso all’autocontrollo ed all’introspezione che non si accorge di 
+                    confermare il suo grossolano antisemitismo nell’atto stesso in cui lo rinnega e lo nega, e da non rendersi conto di quanto 
+                    appaia viscido il suo autoritratto di buon funzionario, padre e marito.
+                </p>
+                <p>
+                    A commento di queste ricostruzioni del passato (ma non solo di queste: è un’osservazione che vale per tutte le memorie), 
+                    si deve notare che la distorsione dei fatti è spesso limitata dall’obiettività dei fatti stessi, 
+                    intorno ai quali esistono testimonianze di terzi, documenti, <soCalled>«corpi del reato»</soCalled>, 
+                    contesti storicamente acquisiti. É generalmente difficile negare di aver commesso una data azione, 
+                    o che questa azione sia stata commessa; è invece facilissimo alterare le motivazioni che ci hanno condotto ad un’azione, 
+                    e le passioni che in noi hanno accompagnato l’azione stessa. 
+                    Questa è materia estremamente fluida, soggetta a deformarsi sotto forze anche molto deboli; alle domande 
+                    <q>«perché lo hai fatto?»</q>, o <q>«cosa pensavi facendolo?»</q>, non esistono risposte attendibili, 
+                    perché gli stati d’animo sono labili per natura, e ancora più labile è la loro memoria.
+                </p>
+                <p>
+                    Come caso limite della deformazione del ricordo di una colpa commessa, c’è la sua soppressione. Anche qui il confine tra buona e
+                <pb n="20" />
+                    mala fede può essere vago; dietro i <q>«non so»</q> e i <q>«non ricordo»</q> che si sentono nei tribunali c’è talvolta il preciso proposito di mentire, 
+                    ma altre volte si tratta di una menzogna fossilizzata, irrigidita in una formula. Il memore ha voluto diventare immemore e ci è riuscito: 
+                    a furia di negarne l’esistenza, ha espulso da sé il ricordo nocivo come si espelle un’escrezione o un parassita. 
+                    Gli avvocati difensori sanno bene che il vuoto di memoria, o la verità putativa, che essi suggeriscono ai loro difesi, tendono a diventare dimenticanze e verità effettive. 
+                    Non occorre sconfinare nella patologia mentale per trovare esemplari umani le cui affermazioni ci lasciano perplessi: sono certamente false, ma non riusciamo a distinguere 
+                    se il soggetto sa o non sa di mentire. Supponendo per assurdo che il mentitore diventi per un istante veridico, lui stesso non saprebbe rispondere al dilemma; 
+                    nell’atto in cui mente è un attore totalmente fuso col suo personaggio, non è più discernibile da lui. Ne è un esempio vistoso, nei giorni in cui scrivo, 
+                    il comportamento in tribunale del turco <name type="person">Alì Agca</name>, l’attentatore di <name type="person">Giovanni Paolo II</name>.
+                </p>
+                <p>
+                    Il modo migliore per difendersi dall’invasione di memorie pesanti è impedirne l’ingresso, stendere una barriera sanitaria lungo il confine.
+                </p>
+                <p>
+                    É più facile vietare l’ingresso a un ricordo che liberarsene dopo che è stato registrato. 
+                    A questo, in sostanza, servivano molti degli artifizi escogitati dai comandi nazisti per proteggere le coscienze degli addetti ai lavori sporchi, 
+                    e per assicurarsi i loro servizi, sgradevoli anche per gli scherani più induriti. 
+                    Agli <foreign xml:lang="de">Einsaztkommandos</foreign>, che nelle retrovie del fronte russo mitragliavano i civili sull’orlo delle fosse comuni 
+                    che le vittime stesse erano costrette a scavare, veniva distribuito alcool a volontà, in modo che il massacro venisse velato dall’ubriachezza. 
+                    I ben noti eufemismi (<soCalled>«soluzione finale»</soCalled>, <soCalled>«trattamento speciale»</soCalled>, lo stesso termine <foreign xml:lang="de">«Einsatzkommando»</foreign> 
+                    appena citato, che significa letteralmente <term>«Unità di pronto impiego»</term>, ma mascherava una realtà spaventosa) non servivano solo ad illudere le vittime 
+                    ed a prevenirne le reazioni di difesa: valevano anche, nei limiti del possibile, ad impedire che l’opinione pubblica, e gli stessi reparti 
+                    delle forze armate non direttamente implicati, venissero a conoscenza di quanto stava accadendo in tutti i territori occupati dal <foreign xml:lang="de">Terzo Reich</foreign>.
+                </p>
+                <p>
+                    Del resto, l’intera storia del breve <soCalled>«Reich Millenario»</soCalled> può essere riletta come guerra contro la memoria, falsificazione <term>orwelliana</term> 
+                    ella memoria, falsificazione della realtà, negazione della realtà, fino alla fuga definitiva dalla realtà medesima. Tutte le biografie di <name type="person">Hitler</name>, 
+                    discordi sull’interpretazione da darsi alla vita di quest’uomo così difficile da classificare, 
+                    concordano sulla fuga dalla realtà che ha segnato i suoi ultimi anni, soprattutto a partire dal primo inverno russo. 
+                    Aveva proibito e negato ai suoi sudditi l’accesso alla verità, inquinando la loro morale e la loro memoria; ma, in misura via via crescente 
+                    fino alla paranoia del <foreign xml:lang="de">Bunker</foreign>, aveva sbarrato la via della verità anche a sé stesso. 
+                    Come tutti i giocatori d’azzardo, si era costruito intorno uno scenario intessuto di menzogne superstiziose, in cui aveva finito col credere con la stessa fede 
+                    fanatica che pretendeva da ogni tedesco. 
+                    Il suo crollo non è stato soltanto una salvazione per il genere umano, ma anche una dimostrazione del prezzo che si paga quando si manomette la verità.
+                </p>
+                <p>
+                Anche nel campo ben più vasto delle vittime si osserva una deriva della memoria, ma qui, evidentemente, manca il dolo. 
+                Chi riceve un’ingiustizia o un’offesa non ha bisogno di elaborare bugie per discolparsi di una colpa che non ha (anche se, 
+                per un paradossale meccanismo di cui diremo, può avvenire che ne provi vergogna); ma questo non esclude che anche i suoi ricordi possano essere alterati. 
+                E stato notato, ad esempio, che molti reduci da guerre o da altre esperienze complesse e traumatiche tendono a filtrare inconsapevolmente i loro ricordi: 
+                rievocandoli fra loro, o raccontandoli a terzi, preferiscono soffermarsi sulle tregue, sui momenti di respiro, sugli intermezzi grotteschi o strani o distesi, 
+                e sorvolare sugli episodi più dolorosi. 
+                Questi ultimi non vengono richiamati volentieri dal serbatoio della memoria, e perciò tendono ad annebbiarsi col tempo, a perdere i loro contorni. 
+                É psicologicamente credibile il comporta-mento del <name type="person">Conte Ugolino</name>, che prova ritegno nel raccontare a <name type="person">Dante</name> 
+                la sua morte tremenda, e si induce a farlo non per accondiscendenza, ma solo per vendetta postuma contro il suo eterno nemico. Quando diciamo <q>«non lo
+                <pb n="22" />
+                    dimenticherò mai»</q> riferendoci a qualche evento che ci ha feriti profondamente, ma che non ha lasciato in noi o intorno a noi una traccia materiale 
+                    o un’assenza permanente, siamo avventati: anche nella vita <soCalled>«civile»</soCalled>, dimentichiamo volentieri i particolari di una malattia grave 
+                    da cui siamo guariti, o di un’operazione chirurgica riuscita bene.
+                </p>
+                <p>
+                    A scopo di difesa, la realtà può essere distorta non solo nel ricordo, ma nell’atto stesso in cui si verifica. 
+                    Per tutto l’anno della mia prigionia ad Auschwitz, ho avuto come amico fraterno <name type="person">Alberto D.</name>: era un giovane robusto e coraggioso, 
+                    chiaroveggente più della media, e perciò assai critico nei confronti dei molti che si fabbricavano, e si somministravano a vicenda, 
+                    illusioni consolatorie (<q>«la guerra finirà fra due settimane»</q>, <q>«non ci saranno più selezioni»</q>, <q>«gli inglesi sono sbarcati in 
+                    <name type="place">Grecia</name>»</q>, <q>«i partigiani polacchi stanno per liberare il campo»</q>, e così via: erano voci che correvano quasi ogni giorno, 
+                    puntualmente smentite dalla realtà). <name type="person">Alberto</name> era stato deportato in- sieme col padre quarantacinquenne. 
+                    Nell’imminenza della grande selezione dell’ottobre 1944, <name type="person">Alberto</name> ed io avevamo commentato il fatto con spavento, collera impotente, 
+                    ribellione, rassegnazione, ma senza cercare rifugio nelle verità di conforto. Venne la selezione, il <soCalled>«vecchio»</soCalled> padre di <name type="person">Alberto</name> 
+                    fu scelto per il gas, ed <name type="person">Alberto</name> cambiò, nel giro di poche ore. 
+                    Aveva sentito voci che gli sembravano degne di fede: i russi erano vicini, i tedeschi non avrebbero più osato persistere nella strage, quella 
+                    non era una selezione come le altre, non era per le camere a gas, era stata fatta per scegliere i prigionieri indeboliti ma recuperabili, come suo padre, 
+                    appunto, che era molto stanco ma non ammalato; anzi, lui sapeva perfino dove li avrebbero mandati, a <name type="place">Jaworzno</name>, 
+                    non lontano, in un campo speciale per convalescenti adatti soltanto per lavori leggeri.
+                </p>
+                <p>
+                    Naturalmente il padre non fu più visto, ed <name type="person">Alberto</name> stesso scomparve durante la marcia di evacuazione del campo, nel gennaio 1945. 
+                    Stranamente, senza sapere del comportamento di Alberto, anche i suoi parenti che erano rimasti nascosti in <name type="place">Italia</name> sfuggendo alla cattura, 
+                    si sono condotti come lui, rifiutando una verità insopportabile e costruendosene un’altra. 
+                    Appena rimpatriato, ritenni doveroso andare subito alla città di <name type="person">Alberto</name>, per riferire alla madre ed al fratello
+                <pb n="23" />
+                    quanto sapevo. Fui accolto con cortesia affettuosa, ma appena ebbi cominciato il mio racconto la madre mi pregò di smettere: lei sapeva già tutto, 
+                    almeno per quanto riguardava <name type="person">Alberto</name>, ed era inutile che io le ripetessi le solite storie di orrore.
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

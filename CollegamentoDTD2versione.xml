@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!DOCTYPE radice SYSTEM "./test02-04.dtd" >
+
+<radice>
+    <figlio>
+        contenuto tesuale 
+    </figlio>
+</radice>
+
+<!-- Prima versione di collegamento DTD a XML: consigliata!-->

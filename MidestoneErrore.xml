@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<libro>
+    <autore> nome cognome <autore>
+    <genere> genere <genere>
+
+    <paragrafo n="1">
+        <capoverso> testo </capoverso>
+        <capoverso> tes-
+    </paragrafo>
+
+    <paragrafo n="2">
+        to </capoverso>
+    </paragrafo>
+    
+</libro>
+
